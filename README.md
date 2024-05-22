@@ -5,3 +5,4 @@
 <img src="https://github.com/cleverson09207/Conversor-de-Moedas/blob/master/assets/%20captura%20de%20tela%20(1).png?raw=true"/>
 <img src="https://github.com/cleverson09207/Conversor-de-Moedas/blob/master/assets/%20captura%20de%20tela%20(2).png?raw=true"/>
 <img src="https://github.com/cleverson09207/Conversor-de-Moedas/blob/master/assets/%20captura%20de%20tela%20(3).png?raw=true"/>
+<img src="https://github.com/cleverson09207/Conversor-de-Moedas/blob/master/assets/%20captura%20de%20tela%20(4).png?raw=true"/>
