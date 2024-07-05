@@ -1,9 +1,11 @@
 <h1>Conversor de Moedas:</h1>
-<p> - Real Brasileiro</p>
-<p> - Dólar Americano</p>
+<p> -Real Brasileiro</p>
+<p> -Dólar Americano</p>
 <p> - Euro</p>
 <p> - Libra</p>
-<p> - Bitcoin</p>
+<p> -Bitcoin</p>
+<h2>Veja o Projeto:</h2>
+http://127.0.0.1:5500/index.html
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
